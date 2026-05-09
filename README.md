@@ -33,7 +33,7 @@ Try the application here:
 - Installation  
 - How It Works  
 - Project Structure
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 Diabetes-Prediction/
