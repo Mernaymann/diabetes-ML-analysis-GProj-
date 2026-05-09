@@ -45,7 +45,7 @@ Diabetes-Prediction/
 ├── functions/
 ├── app/
 ├── data/
-├── images/
+├── images/ '''
 ## 📬 Contact
 
 - 📧 Email: mernaay01@gmail.com  
