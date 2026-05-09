@@ -34,30 +34,21 @@ Try the application here:
 - How It Works  
 - Project Structure
 ## 📁 Project Structure
+
+```
 Diabetes-Prediction/
-
 │── main.py
-
 │── training.py
-
 │── loader.py
-
 │── requirements.txt
-
 │
-
 ├── datasets/
-
 ├── models/
-
 ├── functions/
-
 ├── app/
-
 ├── data/
-
 ├── images/
-
+```
 ## 📬 Contact
 
 - 📧 Email: mernaay01@gmail.com  
