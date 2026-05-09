@@ -36,8 +36,11 @@ Try the application here:
 ## 📁 Project Structure
 Diabetes-Prediction/
 │── main.py
+
 │── training.py
+
 │── loader.py
+
 │── requirements.txt
 │
 ├── datasets/
@@ -51,8 +54,3 @@ Diabetes-Prediction/
 - 📧 Email: mernaay01@gmail.com  
 - 💻 GitHub: Mernaymann  
 - 🔗 LinkedIn: https://www.linkedin.com/in/merna-ayman-005578364
-- Explainability Methods  
-- Model Performance  
-- Project Motivation  
-- Contributing  
-- License  
