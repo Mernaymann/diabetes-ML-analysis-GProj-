@@ -36,11 +36,8 @@ Try the application here:
 ## 📁 Project Structure
 Diabetes-Prediction/
 │── main.py
-
 │── training.py
-
 │── loader.py
-
 │── requirements.txt
 │
 ├── datasets/
